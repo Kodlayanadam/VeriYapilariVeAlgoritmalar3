@@ -7,7 +7,7 @@
 
 # Cevap
 
-Root 6'dır. 6'nın sağından 7, solundan 5 bulunur
+Root 6'dır. 6'nın sağından 7, solundan 5 bulunur.
 
                       6
                     /   \
